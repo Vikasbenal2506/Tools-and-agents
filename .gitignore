@@ -40,6 +40,7 @@ logs/
 .streamlit/secrets.toml
 
 # Local data and generated files
+GenAIvideo3.pdf
 *.db
 *.sqlite
 *.sqlite3
